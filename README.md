@@ -2,6 +2,7 @@
 
 | Instituição                         | Certificado                                            |
 |----------------------------------|--------------------------------------------------------|
+| UniSantaCrzuz                    |[**Tecnologia em Gestão da Tecnologia da Informação**]
 | Alura                            | [**Iniciando com Engenharia de Dados**](https://github.com/will-rds/Certificados/blob/main/Alura/Iniciando-engenharia-de-dados-alura.pdf)            |
 | Data Science Academy             | [**Fundamentos de Engenharia de Dados**](https://github.com/will-rds/Certificados/blob/main/DSA/Fundamentos-de-engenharia-de-dados.pdf)            |
 | Data Science Academy             | [**Design e Implementação de Data Warehouses**](https://github.com/will-rds/Certificados/blob/main/DSA/Design-e-implementacao-de-data-warehouses.pdf)            |
