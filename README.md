@@ -3,6 +3,7 @@
 | Instituição                         | Certificado                                            |
 |----------------------------------|--------------------------------------------------------|
 | UniSantaCrzuz                    | [**Tecnologia em Gestão da Tecnologia da Informação**](https://github.com/will-rds/Certificados/blob/main/CertificadoConclusao_UniSantaCruz.pdf) |
+| Indicium                         | [**Formação em Engenharia de Dados**](https://github.com/ribeirowillian/Certificados/blob/main/Certificado_Lighthouse_Indicium.png) |
 | Alura                            | [**Iniciando com Engenharia de Dados**](https://github.com/will-rds/Certificados/blob/main/Alura/Iniciando-engenharia-de-dados-alura.pdf)            |
 | Data Science Academy             | [**Fundamentos de Engenharia de Dados**](https://github.com/will-rds/Certificados/blob/main/DSA/Fundamentos-de-engenharia-de-dados.pdf)            |
 | Data Science Academy             | [**Design e Implementação de Data Warehouses**](https://github.com/will-rds/Certificados/blob/main/DSA/Design-e-implementacao-de-data-warehouses.pdf)            |
