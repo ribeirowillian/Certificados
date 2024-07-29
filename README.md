@@ -3,7 +3,7 @@
 | Instituição                         | Certificado                                            |
 |----------------------------------|--------------------------------------------------------|
 | UniSantaCrzuz                    | [**Tecnologia em Gestão da Tecnologia da Informação**](https://github.com/will-rds/Certificados/blob/main/CertificadoConclusao_UniSantaCruz.pdf) |
-| Indicium                         | [**Certificação em Engenharia de Analytics**](https://github.com/ribeirowillian/Certificados/blob/main/Certificado_engenharia_de_analytics_Indicium.pdf) | 
+| Indicium                         | [**Certificação em Engenharia de Analytics**](https://github.com/ribeirowillian/Certificados/blob/main/Indicium/certificate-certificacao-analytics-engineer-by-indicium-63a067933bb09650cc0c0827.pdf) | 
 | Indicium                         | [**Programa Formação em Dados - Engenheiro de Dados**](https://github.com/ribeirowillian/Certificados/blob/main/Certificado_Lighthouse_Indicium.png) |
 | Indicium                         | [**Formação em Engenharia de Analytics**](https://github.com/ribeirowillian/Certificados/blob/main/Certificado_engenharia_de_analytics_Indicium.pdf) | 
 | Alura                            | [**Iniciando com Engenharia de Dados**](https://github.com/will-rds/Certificados/blob/main/Alura/Iniciando-engenharia-de-dados-alura.pdf)            |
