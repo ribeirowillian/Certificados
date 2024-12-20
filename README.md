@@ -1,3 +1,9 @@
+# Certificações
+| Instituição                         | Certificação                                            |
+|----------------------------------|--------------------------------------------------------|
+| AWS                    | [**Cloud Practitioner**](https://www.credly.com/badges/f63bb922-e099-4582-8353-a471f4553fdf/public_url) |
+
+
 # Formações 👨‍🎓
 
 | Instituição                         | Certificado                                            |
