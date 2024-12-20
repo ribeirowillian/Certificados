@@ -2,14 +2,13 @@
 | Instituição                         | Certificação                                            |
 |----------------------------------|--------------------------------------------------------|
 | AWS                    | [**Cloud Practitioner**](https://www.credly.com/badges/f63bb922-e099-4582-8353-a471f4553fdf/public_url) |
+| Indicium                         | [**Certificação em Engenharia de Analytics**](https://github.com/ribeirowillian/Certificados/blob/main/Indicium/certificate-certificacao-analytics-engineer-by-indicium.pdf) | 
 
 
 # Formações 👨‍🎓
 
 | Instituição                         | Certificado                                            |
 |----------------------------------|--------------------------------------------------------|
-| UniSantaCrzuz                    | [**Tecnologia em Gestão da Tecnologia da Informação**](https://github.com/will-rds/Certificados/blob/main/CertificadoConclusao_UniSantaCruz.pdf) |
-| Indicium                         | [**Certificação em Engenharia de Analytics**](https://github.com/ribeirowillian/Certificados/blob/main/Indicium/certificate-certificacao-analytics-engineer-by-indicium.pdf) | 
 | Indicium                         | [**Programa Formação em Dados - Engenheiro de Dados**](https://github.com/ribeirowillian/Certificados/blob/main/Indicium/Certificado_Lighthouse_Indicium.png) |
 | Indicium                         | [**Formação em Engenharia de Analytics**](https://github.com/ribeirowillian/Certificados/blob/main/Indicium/Certificado_engenharia_de_analytics_Indicium.pdf) | 
 | Alura                            | [**Iniciando com Engenharia de Dados**](https://github.com/will-rds/Certificados/blob/main/Alura/Iniciando-engenharia-de-dados-alura.pdf)            |
